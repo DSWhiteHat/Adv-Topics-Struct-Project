@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <thread> 
 #include <chrono>
@@ -666,3 +667,467 @@ void gameOver(bool winner)
 		cout << "\n\t                                    ###";
 	}
 }
+/*Type your hero's name...
+Cloud
+
+Cloud's Randomized Stats:
+Health: 115
+Strength: 19
+Accuracy: 19
+Defense: 14
+Mana: 18
+Speed: 19
+
+
+
+                                         Enter Any Key To Continue...f
+
+
+
+
+
+
+
+
+
+
+Which actions will your hero take?
+1)      Slashing Strike (Doesn't cost mana, does more damage than lunge but bad accuracy)
+2)      Lunging Strike (Doesn't cost mana, does less damage than slash but better accuracy)
+3)      Swift Parry (Spell that can raise the evasiveness of the character, which will make attack harder to land)
+4)      Stallwart Block (Spell that reduce the damage incoming by half)
+5)      Spell of Healing Surge (Spell that heals the user 5 - 20 hp)
+6)      Spell of True Strike (Spell that increases the user's accuracy for a few turns)
+7)      Spell of Enragement (Spell that increases the user's attack damage for a few turns)
+8)      Spell of Searing Fire (Spell that does fire damage which negates half of the target's defense and can't be blocked or parried)
+9)      Spell of Physical Binding (Spell that makes the opponent not able to use physical attacks for a few turns)
+1
+2
+3
+4
+
+
+
+
+                                         Enter Any Key To Continue...3
+
+
+
+
+Type your hero's name...
+Frost
+
+Frost's Randomized Stats:
+Health: 89
+Strength: 19
+Accuracy: 20
+Defense: 11
+Mana: 14
+Speed: 13
+
+
+
+                                         Enter Any Key To Continue...3
+
+
+
+
+
+
+
+
+Which actions will your hero take?
+1)      Slashing Strike (Doesn't cost mana, does more damage than lunge but bad accuracy)
+2)      Lunging Strike (Doesn't cost mana, does less damage than slash but better accuracy)
+3)      Swift Parry (Spell that can raise the evasiveness of the character, which will make attack harder to land)
+4)      Stallwart Block (Spell that reduce the damage incoming by half)
+5)      Spell of Healing Surge (Spell that heals the user 5 - 20 hp)
+6)      Spell of True Strike (Spell that increases the user's accuracy for a few turns)
+7)      Spell of Enragement (Spell that increases the user's attack damage for a few turns)
+8)      Spell of Searing Fire (Spell that does fire damage which negates half of the target's defense and can't be blocked or parried)
+9)      Spell of Physical Binding (Spell that makes the opponent not able to use physical attacks for a few turns)
+2
+4
+6
+8
+
+
+
+
+                                         Enter Any Key To Continue...2
+
+
+
+
+
+
+
+
+
+
+Cloud:
+Health: 115
+Strength: 19
+Accuracy: 19
+Defense: 14
+Mana: 18
+Speed: 19
+
+Frost:
+Health: 89
+Strength: 19
+Accuracy: 20
+Defense: 11
+Mana: 14
+Speed: 13
+
+
+
+                                         Enter Any Key To Continue...h
+
+
+
+
+
+Which action will Cloud use?
+1)      Slashing Strike
+2)      Lunging Strike
+3)      Swift Parry
+4)      Stallwart Block
+2
+
+Which action will Frost use?
+1)      Lunging Strike
+2)      Stallwart Block
+3)      Spell of True Strike
+4)      Spell of Searing Fire
+1
+
+Cloud uses Lunging Strike
+The attack deals 9 damage!
+Frost uses Lunging Strike
+The attack deals 7 damage!
+
+Cloud:
+Health: 108
+Strength: 19
+Accuracy: 19
+Defense: 14
+Mana: 18
+Speed: 19
+
+Frost:
+Health: 80
+Strength: 19
+Accuracy: 20
+Defense: 11
+Mana: 14
+Speed: 13
+
+
+
+                                         Enter Any Key To Continue...2
+
+
+
+
+
+
+
+
+Which action will Cloud use?
+1)      Slashing Strike
+2)      Lunging Strike
+3)      Swift Parry
+4)      Stallwart Block
+1
+
+Which action will Frost use?
+1)      Lunging Strike
+2)      Stallwart Block
+3)      Spell of True Strike
+4)      Spell of Searing Fire
+4
+
+Cloud uses Slashing Strike
+The attack deals 13 damage!
+Frost uses Spell of Searing Fire
+The attack deals 12 damage!
+
+Cloud:
+Health: 96
+Strength: 19
+Accuracy: 19
+Defense: 14
+Mana: 18
+Speed: 19
+
+Frost:
+Health: 67
+Strength: 19
+Accuracy: 20
+Defense: 11
+Mana: 10
+Speed: 13
+
+
+
+                                         Enter Any Key To Continue...2
+
+
+
+
+Which action will Cloud use?
+1)      Slashing Strike
+2)      Lunging Strike
+3)      Swift Parry
+4)      Stallwart Block
+3
+
+Which action will Frost use?
+1)      Lunging Strike
+2)      Stallwart Block
+3)      Spell of True Strike
+4)      Spell of Searing Fire
+2
+
+Cloud uses Swift Parry
+Cloud takes an evasive stance!
+Frost uses Stallwart Block
+Frost takes a defensive stance!
+
+Cloud:
+Health: 96
+Strength: 19
+Accuracy: 19
+Defense: 14
+Mana: 18
+Speed: 19
+
+Frost:
+Health: 67
+Strength: 19
+Accuracy: 20
+Defense: 11
+Mana: 10
+Speed: 13
+
+
+
+                                         Enter Any Key To Continue...2
+
+
+
+
+
+Which action will Cloud use?
+1)      Slashing Strike
+2)      Lunging Strike
+3)      Swift Parry
+4)      Stallwart Block
+1
+
+Which action will Frost use?
+1)      Lunging Strike
+2)      Stallwart Block
+3)      Spell of True Strike
+4)      Spell of Searing Fire
+3
+
+Cloud uses Slashing Strike
+The attack deals 24 damage!
+Cloud's parry wears off!
+Frost uses Spell of True Strike
+Frost's accuracy increases by 15 points!
+Frost's block wears off!
+
+Cloud:
+Health: 96
+Strength: 19
+Accuracy: 19
+Defense: 14
+Mana: 18
+Speed: 19
+
+Frost:
+Health: 43
+Strength: 19
+Accuracy: 35
+Defense: 11
+Mana: 7
+Speed: 13
+
+
+
+                                         Enter Any Key To Continue...2
+
+
+
+
+
+
+Which action will Cloud use?
+1)      Slashing Strike
+2)      Lunging Strike
+3)      Swift Parry
+4)      Stallwart Block
+4
+
+Which action will Frost use?
+1)      Lunging Strike
+2)      Stallwart Block
+3)      Spell of True Strike
+4)      Spell of Searing Fire
+1
+
+Cloud uses Stallwart Block
+Cloud takes a defensive stance!
+Frost uses Lunging Strike
+The attack deals 8 damage!
+
+Cloud:
+Health: 88
+Strength: 19
+Accuracy: 19
+Defense: 14
+Mana: 18
+Speed: 19
+
+Frost:
+Health: 43
+Strength: 19
+Accuracy: 35
+Defense: 11
+Mana: 7
+Speed: 13
+
+
+
+                                         Enter Any Key To Continue...1
+
+
+
+Which action will Cloud use?
+1)      Slashing Strike
+2)      Lunging Strike
+3)      Swift Parry
+4)      Stallwart Block
+1
+
+Which action will Frost use?
+1)      Lunging Strike
+2)      Stallwart Block
+3)      Spell of True Strike
+4)      Spell of Searing Fire
+2
+
+Cloud uses Slashing Strike
+The attack deals 23 damage!
+Frost uses Stallwart Block
+Frost takes a defensive stance!
+Frost's true strike wears off!
+
+Cloud:
+Health: 88
+Strength: 19
+Accuracy: 19
+Defense: 14
+Mana: 18
+Speed: 19
+
+Frost:
+Health: 20
+Strength: 19
+Accuracy: 20
+Defense: 11
+Mana: 7
+Speed: 13
+
+
+
+                                         Enter Any Key To Continue...2
+
+
+
+
+
+
+Which action will Cloud use?
+1)      Slashing Strike
+2)      Lunging Strike
+3)      Swift Parry
+4)      Stallwart Block
+1
+
+Which action will Frost use?
+1)      Lunging Strike
+2)      Stallwart Block
+3)      Spell of True Strike
+4)      Spell of Searing Fire
+3
+
+Cloud uses Slashing Strike
+The attack deals 6 damage!
+Cloud's block wears off!
+Frost uses Spell of True Strike
+Frost's accuracy increases by 10 points!
+Frost's block wears off!
+
+Cloud:
+Health: 88
+Strength: 19
+Accuracy: 19
+Defense: 14
+Mana: 18
+Speed: 19
+
+Frost:
+Health: 14
+Strength: 19
+Accuracy: 30
+Defense: 11
+Mana: 5
+Speed: 13
+
+
+
+                                         Enter Any Key To Continue...2
+
+
+
+
+
+
+Which action will Cloud use?
+1)      Slashing Strike
+2)      Lunging Strike
+3)      Swift Parry
+4)      Stallwart Block
+1
+
+Which action will Frost use?
+1)      Lunging Strike
+2)      Stallwart Block
+3)      Spell of True Strike
+4)      Spell of Searing Fire
+1
+
+Cloud uses Slashing Strike
+The attack deals 22 damage!
+                    ###### ######## ##   ## ########  #######  ###  ## ######## #######
+                   ###           ## ### ###                 ## ###  ##                ##
+                   ###  ##  ####### #######  #######   ##   ## ###  ##  #######  ######
+                   ###  ##  ###  ## ## # ##  ###       ##   ##  #####   ###      ##  ##
+                    ######  ###  ## ##   ##  #######    #####    ###    #######  ##   ##
+                                    ##
+                                                                              #
+                          ###                                                 ##
+                 #######  ###    ######## ###  ## ######## #######   #######  ###  ## ########
+                       ## ###          ## ###  ##                ##        ## #### ##
+                  ######  ###     ####### #######  #######  ######    ##   ## #######  #######
+                  ###     ###     ###  ##   ###    ###      ##  ##    ##   ## ### ###  ###
+                  ###     ####### ###  ##   ###    #######  ##   ##    #####  ###  ##  #######
+                                            ###                                     #
+C:\Users\Young\Documents\Advanced Topics\Adv-Topics-Struct-Project-master\StructProject\x64\Debug\StructProject.exe (process 5912) exited with code 0.
+Press any key to close this window . . .
+*/
