@@ -1,0 +1,8 @@
+﻿1>------ Build started: Project: Struct, Configuration: Debug Win32 ------
+1>Source.cpp
+1>C:\Users\cl20yanga\Desktop\Struct\Source.cpp(157,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\cl20yanga\Desktop\Struct\Source.cpp(240,20): warning C4018:  '<': signed/unsigned mismatch
+1>C:\Users\cl20yanga\Desktop\Struct\Source.cpp(247,20): warning C4018:  '<': signed/unsigned mismatch
+1>Struct.vcxproj -> C:\Users\cl20yanga\Desktop\Struct\Debug\Struct.exe
+1>Done building project "Struct.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

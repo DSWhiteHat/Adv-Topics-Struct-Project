@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\cl20yanga\Desktop\Struct\Source.cpp(157,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cl20yanga\Desktop\Struct\Source.cpp(240,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\cl20yanga\Desktop\Struct\Source.cpp(247,20): warning C4018:  '<': signed/unsigned mismatch
+  Struct.vcxproj -> C:\Users\cl20yanga\Desktop\Struct\Debug\Struct.exe
